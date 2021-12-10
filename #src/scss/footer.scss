@@ -1,0 +1,22 @@
+footer {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    background: #f7f7f7;
+    justify-content: center;
+    margin: 3px 0 0px 0px;
+    line-height: 37px;
+    height: 156px;
+    width: 100%;
+    .footer-copyright {
+        color: #709eca;
+    }
+
+    .footer-link {
+        a {
+            color: #869898;
+        }
+    }
+    @media (max-width: 1280px) {
+    }
+}
