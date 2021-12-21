@@ -6,6 +6,7 @@
 	"private": true,
 	"license": "GNU General Public License (GPL)",
 	"devDependencies": {
+		"bootstrap": "^5.1.3",
 		"browser-sync": "latest",
 		"del": "latest",
 		"gulp": "latest",
