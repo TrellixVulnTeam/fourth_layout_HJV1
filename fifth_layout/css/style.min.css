@@ -826,3 +826,9 @@ body .wrapper {
   text-align: center;
   letter-spacing: 0.32px;
 }
+
+.team {
+  height: 910px;
+  width: 100%;
+  background-color: #e7f1f8;
+}
